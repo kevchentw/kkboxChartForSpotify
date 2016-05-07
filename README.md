@@ -35,6 +35,20 @@ The Structure of the Data is
 ]
 ```
 
+### Where is the Spotify Playlist?
+
+- KKBOX每日排行榜(中文)每日更新 https://open.spotify.com/user/11124349391/playlist/1uUeh9uyMkfolyQ5nWCNjm
+- KKBOX每日排行榜(英文)每日更新 https://open.spotify.com/user/11124349391/playlist/6wkfdvtpEoAD40dk781gEo
+- KKBOX每日排行榜(日語)每日更新 https://open.spotify.com/user/11124349391/playlist/1cu1cyGWCE1uYhuHrcxWaN
+- KKBOX每日排行榜(台語)每日更新 https://open.spotify.com/user/11124349391/playlist/5QNJB8JsGoEONFFfsy5PIW
+- KKBOX每日排行榜(韓語)每日更新 https://open.spotify.com/user/11124349391/playlist/28W2GcZukUNgiQqcArk31o
+- KKBOX每日排行榜(粵語)每日更新 https://open.spotify.com/user/11124349391/playlist/6AJNRj4L85G5Ftninq2Bip
+- KKBOX新歌排行(中文)每日更新 https://open.spotify.com/user/11124349391/playlist/4yBQStm0d3dhgSOdpuxXYy
+- KKBOX新歌排行(英文)每日更新 https://open.spotify.com/user/11124349391/playlist/26aAy1mCRixJAFdEzTgVty
+- KKBOX新歌排行(日語)每日更新 https://open.spotify.com/user/11124349391/playlist/3pXKUG5kVqNP6c2Zv4mCXU
+- KKBOX新歌排行(粵語)每日更新 https://open.spotify.com/user/11124349391/playlist/7MY3duYPXXyfSbakOYUyO1
+- KKBOX新歌排行(台語)每日更新 https://open.spotify.com/user/11124349391/playlist/0HJogJvuYxuZZXcEIulKd1
+- KKBOX新歌排行(韓語)每日更新 https://open.spotify.com/user/11124349391/playlist/1ZJ0Hi1F5gYGPfUxVBt3MS
 
 ### LICENSE
 MIT
