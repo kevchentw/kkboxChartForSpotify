@@ -1,2 +1,5 @@
 settings = {}
-settings['username'] = "11124349391"
+settings['username'] = ""
+settings['client_id'] = ""
+settings['client_secret'] = ""
+settings['redirect_uri'] = ""

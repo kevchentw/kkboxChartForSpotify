@@ -17,7 +17,7 @@ class Spotify:
             return self.get_token(scope)
 
     def get_token(self, scope):
-        token = util.prompt_for_user_token(self.username, scope)
+        token = util.prompt_for_user_token(self.username, scope, settings['client_id'], settings['client_secret'], settings['redirect_uri'])
         if token:
             try:
                 s = self.tokens['scope'] = spotipy.Spotify(auth=token)
@@ -59,7 +59,10 @@ class Spotify:
             print("spotify api error, sleep 5s...")
             sleep(5)
             self.search_track(title, artist)
-        tracks = results['tracks']['items']
+        try:
+            tracks = results['tracks']['items']
+        except:
+            return None
         if len(tracks) > 0:
             return tracks[0]
         else:
