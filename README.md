@@ -35,7 +35,7 @@ The Structure of the Data is
 ]
 ```
 
-### Where is the Spotify Playlist?
+### Where are the Spotify Playlists?
 
 - KKBOX每日排行榜(中文)每日更新 https://open.spotify.com/user/11124349391/playlist/1uUeh9uyMkfolyQ5nWCNjm
 - KKBOX每日排行榜(英文)每日更新 https://open.spotify.com/user/11124349391/playlist/6wkfdvtpEoAD40dk781gEo
